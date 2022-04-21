@@ -8,6 +8,21 @@ TensorFlow implementation of "MLP-Mixer: An all-MLP Architecture for Vision"
   <p>The MLP-Mixer architecture [1].</p>
 </div>
 
+### Patch Embedding
+<div align="center">
+  <img src="./figures/patch_embedding.png" width="700">  
+</div>
+
+### Mixer Block
+<div align="center">
+  <img src="./figures/mixer_layer.png" width="700">  
+</div>
+
+### MLP in Mixer Blcok
+<div align="center">
+  <img src="./figures/mlp_block.png" width="400">  
+</div>
+
 ## Results
 
 ### Loss
