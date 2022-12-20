@@ -4,23 +4,23 @@ TensorFlow implementation of "MLP-Mixer: An all-MLP Architecture for Vision"
 
 ## Concept
 <div align="center">
-  <img src="./figures/mixer.png" width="700">  
+  <img src="./figures/mixer.png" width="800">  
   <p>The MLP-Mixer architecture [1].</p>
 </div>
 
 ### Patch Embedding
 <div align="center">
-  <img src="./figures/patch_embedding.png" width="700">  
+  <img src="./figures/patch_embedding.png" width="800">  
 </div>
 
 ### Mixer Block
 <div align="center">
-  <img src="./figures/mixer_layer.png" width="700">  
+  <img src="./figures/mixer_layer.png" width="800">  
 </div>
 
 ### MLP in Mixer Blcok
 <div align="center">
-  <img src="./figures/mlp_block.png" width="400">  
+  <img src="./figures/mlp_block.png" width="700">  
 </div>
 
 ## Results
